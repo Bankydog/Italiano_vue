@@ -16,7 +16,7 @@ This project is a front-end development exercise focused on building a landing p
 
 ## Technologies Used <img src="https://img.icons8.com/color/24/000000/settings--v1.png" alt="Technologies">
 
-* Vue.js <img src="https://img.icons8.com/color/24/000000/vuejs.png" alt="Vue.js">
+* Vue.js <img src="[https://img.icons8.com/color/24/000000/vuejs.png](https://img.icons8.com/?size=100&id=6WRLrWVAXidL&format=png&color=000000)" alt="Vue.js">
 * Vue Router <img src="https://img.icons8.com/color/24/000000/route.png" alt="Vue Router">
 * Pinia/Vuex <img src="https://img.icons8.com/color/24/000000/data-configuration.png" alt="Pinia/Vuex">
 * VeeValidate/Vue's built-in form handling <img src="https://img.icons8.com/color/24/000000/form.png" alt="VeeValidate">
