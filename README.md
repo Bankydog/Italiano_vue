@@ -1,8 +1,4 @@
-# Italiano
-
-แน่นอนค่ะ นี่คือคำอธิบายโครงการของคุณในภาษาอังกฤษ เพื่อใช้ใน README:
-
-Project Description
+# Italiano Project Description
 
 This project is a front-end development exercise focused on building a landing page for an Italian restaurant. The aim is to practice and demonstrate proficiency in various modern front-end technologies and best practices.
 
@@ -32,11 +28,6 @@ Purpose:
 
 This project serves as a practical demonstration of front-end development skills, showcasing the ability to create a functional and visually appealing landing page while adhering to modern development standards.
 
-How to use this information:
-
-Copy and paste this text into your project's README.md file.
-You can then add or modify any details to make it more specific to your project.
-If you used any other library's or frameworks, you should add that to the techonologies used section.
 ## Project Setup
 
 ```sh
