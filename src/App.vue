@@ -1,6 +1,9 @@
 <script setup lang="ts">
-import Landing from "./components/pages/Landing.vue";
+import { RouterLink, RouterView } from "vue-router";
 </script>
 
-<template><Landing /></template>
-
+<template>
+  <div>
+    <RouterView />
+  </div>
+</template>
